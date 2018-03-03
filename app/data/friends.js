@@ -81,7 +81,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Mrs. Piggy',
+		name: 'Rihanna'
 		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
 		scores: [
 			'1',
@@ -129,8 +129,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Kermit the Frog',
-		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
+		name: 'Jennifer Lopez',
+		photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jennifer_Lopez_at_GLAAD_Media_Awards_%28cropped%29.jpg/165px-Jennifer_Lopez_at_GLAAD_Media_Awards_%28cropped%29.jpg',
 		scores: [
 			'5',
 			'5',
