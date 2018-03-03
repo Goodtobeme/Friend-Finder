@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Goodtobeme/Friend-Finder/issues"
   },
+  "engines":{
+    "node": "5.3.0"
+  },
   "homepage": "https://github.com/Goodtobeme/Friend-Finder#readme"
 }
