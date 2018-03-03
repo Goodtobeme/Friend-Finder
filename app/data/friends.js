@@ -1,8 +1,8 @@
-/ Data structure that will store the friends data
+// / Data structure that will store the friends data
 var friendsArray = [
 	{
 		name: 'Haley Berry',
-		photo: 'http://pophaircuts.com/images/2012/11/Halle-Berry-Very-Short-Haircuts-2013.jpg,'
+		photo: 'http://pophaircuts.com/images/2012/11/Halle-Berry-Very-Short-Haircuts-2013.jpg',
 		scores: [
 			'1',
 			'5',
@@ -81,7 +81,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Rihanna'
+		name: 'Rihanna',
 		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
 		scores: [
 			'1',
