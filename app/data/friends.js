@@ -1,5 +1,22 @@
 // / Data structure that will store the friends data
 var friendsArray = [
+
+	{
+		name: 'Angela Bassett',
+		photo: 'https://pics.wikifeet.com/Angela-Bassett-Feet-1931982.jpgs',
+		scores: [
+			'2',
+			'4',
+			'1',
+			'1',
+			'1',
+			'1',
+			'1',
+			'2',
+			'1',
+			'5'
+		]
+	},
 	{
 		name: 'Haley Berry',
 		photo: 'http://pophaircuts.com/images/2012/11/Halle-Berry-Very-Short-Haircuts-2013.jpg',
@@ -17,24 +34,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Angela Bassett',
-		photo: 'https://pbs.twimg.com/media/CsqdtekW8AEkbKB.jpg',
-		scores: [
-			'2',
-			'4',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'2',
-			'1',
-			'5'
-		]
-	},
-	{
 		name: 'Kerry Washington',
-		photo: 'https://wallscover.com/images/kerry-washington-2.jpg',
+		photo: 'https://peopledotcom.files.wordpress.com/2016/08/kerry-washington-435-99.jpg?w=435',
 		scores: [
 			'4',
 			'3',
@@ -50,7 +51,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Julia Roberts',
-		photo: 'http://www.thedailyrecords.com/wp-content/uploads/2017/12/Julia-Roberts-Top-Most-Famous-Richest-Hollywood-Actresses-2017.jpg',
+		photo: 'https://peopledotcom.files.wordpress.com/2017/10/julia-roberts-tout-11.jpg?w=669',
 		scores: [
 			'5',
 			'1',
@@ -66,7 +67,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Terry Hatcher',
-		photo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtgkjg4EgibdVLNRvZ0jWiCslDr_Iw3MvVwsWVQF_heav5wX_',
+		photo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtgkjg4EgibdVLNRvZ0jWiCslDr_Iw3MvVwsWVQF_heav5wX_jpg',
 		scores: [
 			'1',
 			'1',

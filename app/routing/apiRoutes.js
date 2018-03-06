@@ -1,4 +1,4 @@
-// Pull in required dependencies
+//  Pull in required dependencies
 var path = require('path');
 
 var friends = require('../data/friends.js');
@@ -23,7 +23,7 @@ module.exports = function(app) {
 
 		var matchName = '';
 		var matchImage = '';
-		var totalDifference = 10000; 
+		var totalDifference = 10000;
 		// Checking all friends in the list
 		for (var i = 0; i < friends.length; i++) {
 			// console.log('friend = ' + JSON.stringify(friends[i]));
